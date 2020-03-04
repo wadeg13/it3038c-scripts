@@ -1,0 +1,2 @@
+﻿Compress-Item -Path 'C:\it3038c-scripts\Carbon\Lab7\Test1.txt' -OutFile 'C:\it3038c-scripts\Carbon\Lab7\Test1.zip'
+Expand-Item -Path 'C:\it3038c-scripts\Carbon\Lab7\Test1.zip' -OutDirectory 'C:\it3038c-scripts\Carbon\Lab7' -Force
